@@ -11,7 +11,7 @@ Welcome to the **Intern & Placement Preparation** repository! 🚀 This reposito
 - [🔐 Cybersecurity](#-cybersecurity)
 - [📊 Competitive Programming](#-competitive-programming)
 - [🌐 Web Development](#-web-development)
-- [📱 Mobile Development](#-mobile-development)
+- [📱 App Development](#-app-development)
 - [📦 Databases](#-databases)
 - [💡 Miscellaneous](#-miscellaneous)
 - [📖 Exams & Certifications](#-exams--certifications)
@@ -53,7 +53,7 @@ Welcome to the **Intern & Placement Preparation** repository! 🚀 This reposito
 - [Frontend Roadmap](https://example.com/frontend-roadmap)
 - [Backend Roadmap](https://example.com/backend-roadmap)
 
-## 📱 Mobile Development
+## 📱 App Development
 - [Android Development](https://example.com/android-dev)
 - [iOS Development](https://example.com/ios-dev)
 

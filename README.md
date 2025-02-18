@@ -7,7 +7,7 @@ Welcome to the **Intern & Placement Preparation** repository! 🚀 This reposito
 - [💻 System Design](#-system-design)
 - [📝 CS Fundamentals](#-cs-fundamentals)
 - [☁️ Cloud & DevOps](#-cloud--devops)
-- [🤖 DA/DS/ML/AI](#-DA/DS/ML/AI)
+- [🤖 DS & ML](#-DS--ML)
 - [🔐 Cybersecurity](#-cybersecurity)
 - [📊 Competitive Programming](#-competitive-programming)
 - [🌐 Web Development](#-web-development)
@@ -37,7 +37,7 @@ Welcome to the **Intern & Placement Preparation** repository! 🚀 This reposito
 - [AWS Free Tier Guide](https://example.com/aws-guide)
 - [Docker & Kubernetes](https://example.com/devops-resources)
 
-## 🤖 DA/DS/ML/AI
+## 🤖 DS & ML
 - [Drive](https://drive.google.com/drive/folders/1ZXCb6K7LOlG0W42OVTgQjnXrSm6wuLJY)
 - [Deep Learning Specialization](https://example.com/dl-specialization)
 

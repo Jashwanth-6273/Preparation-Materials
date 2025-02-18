@@ -3,18 +3,18 @@
 Welcome to the **Intern & Placement Preparation** repository! 🚀 This repository contains curated learning resources for various topics essential for cracking internships and placements.
 
 ## 📌 Table of Contents
-- [📚 Data Structures & Algorithms](#data-structures--algorithms)
-- [💻 System Design](#system-design)
-- [📝 CS Fundamentals](#cs-fundamentals)
-- [☁️ Cloud & DevOps](#cloud--devops)
-- [🤖 DA/DS/ML/AI](#DA/DS/ML/AI)
-- [🔐 Cybersecurity](#cybersecurity)
-- [📊 Competitive Programming](#competitive-programming)
-- [🌐 Web Development](#web-development)
-- [📱 Mobile Development](#mobile-development)
-- [📦 Databases](#databases)
-- [💡 Miscellaneous](#miscellaneous)
-- [📖 Exams & Certifications](#exams--certifications)
+- [📚 Data Structures & Algorithms](#-data-structures--algorithms)
+- [💻 System Design](#-system-design)
+- [📝 CS Fundamentals](#-cs-fundamentals)
+- [☁️ Cloud & DevOps](#-cloud--devops)
+- [🤖 DA/DS/ML/AI](#-DA/DS/ML/AI)
+- [🔐 Cybersecurity](#-cybersecurity)
+- [📊 Competitive Programming](#-competitive-programming)
+- [🌐 Web Development](#-web-development)
+- [📱 Mobile Development](#-mobile-development)
+- [📦 Databases](#-databases)
+- [💡 Miscellaneous](#-miscellaneous)
+- [📖 Exams & Certifications](#-exams--certifications)
 - [📈 Quant & Trading](#-quant--trading)
 
 ---

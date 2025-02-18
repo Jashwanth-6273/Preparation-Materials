@@ -15,7 +15,7 @@ Welcome to the **Intern & Placement Preparation** repository! 🚀 This reposito
 - [📦 Databases](#databases)
 - [💡 Miscellaneous](#miscellaneous)
 - [📖 Exams & Certifications](#exams--certifications)
-- [📈 Quant & Trading](##quant--trading)
+- [📈 Quant & Trading](#-quant--trading)
 
 ---
 
